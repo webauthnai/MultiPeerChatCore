@@ -14,7 +14,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/webauthnai/DogTagKit.git")
+        .package(url: "https://github.com/webauthnai/DogTagKit.git", from: "1.0.0")
     ],
     targets: [
         .target(

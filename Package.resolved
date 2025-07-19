@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dogtagkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/webauthnai/DogTagKit.git",
+      "state" : {
+        "revision" : "b25c7e1ce4ac6fb49217886eb3e359d2882f83cc",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
